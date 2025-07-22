@@ -1,4 +1,4 @@
-[! GRCMana GitHub Banner](/profile/assets/GRCMana%20GitHub%20Banner.png)
+[![GRCMana GitHub Banner](/profile/assets/GRCMana%20GitHub%20Banner.png)]
 
 # Welcome to GRCMana | Where GRC Minds Meet
 
