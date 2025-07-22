@@ -2,14 +2,12 @@
 
 # Welcome to GRCMana | Where GRC Minds Meet
 
-> WORK IN PROGRESS
-
 ## 👋 Hi, I'm Harry and Welcome To GRCMana
 Over the course of nearly two decades, I have helped technologists, security professionals and business leaders from all walks of life reduce cost, improve security and drive business success by unlocking the power of GRC.
 
 <br>
 
-# Here's What I've Learnt
+## Here's What I've Learnt
 
 > The world of Governance, Risk, and Compliance is shifting faster than ever.
 
@@ -19,7 +17,7 @@ Over the course of nearly two decades, I have helped technologists, security pro
 
 <br>
 
-# Sound familiar? Here's three ways I can help
+## Sound familiar? Here's three ways I can help
 
 | GRC Knowledge Hubs    | The GRCMana Newsletter    | The GRCMana Hub       |
 | :---:                   | :---:                        | :---:                    |
