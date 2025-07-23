@@ -27,7 +27,9 @@ I've bundled them into a growing collection of repositories for you to access in
 
 Hope it helps 😃
 
-> Can't find what you're looking for? [Connect with me on LinkedIn](https://www.linkedin.com/in/harrywest/) and shoot me a DM. I'll do what I can to help.
+> [!IMPORTANT] 
+> **Can't find what you're looking for?**
+> [Connect with me on LinkedIn](https://www.linkedin.com/in/harrywest/) and shoot me a DM. I'll do what I can to help.
 
 ## Useful Links
 
