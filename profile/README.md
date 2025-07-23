@@ -29,7 +29,7 @@ Hope it helps 😃
 
 > [!IMPORTANT] 
 >
-> **Can't find what you're looking for?**
+> ### Can't find what you're looking for?
 >
 > [Connect with me on LinkedIn](https://www.linkedin.com/in/harrywest/) and shoot me a DM. I'll do what I can to help.
 >
